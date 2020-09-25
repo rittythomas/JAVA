@@ -7,7 +7,7 @@ class FloydTriangle
     int n, num = 1, c, d;
     Scanner in = new Scanner(System.in);
  
-    System.out.println("Enter the no of rows of Floyd's triangle to display");
+    System.out.println("Enter the number of rows of Floyd's triangle to display");
     n = in.nextInt();
  
     System.out.println("Floyd's triangle:");
